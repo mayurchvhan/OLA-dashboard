@@ -27,4 +27,4 @@ Synthetic OLA booking dataset (Ride IDs, Customer & Driver Ratings, Vehicle Type
 🗺 Ride Distance Distribution – Daily and categorical insights.
 
 6. Screenshots
-   Export dashboard pages as .PNG inside Power BI ().
+   Export dashboard pages as .PNG inside Power BI (https://github.com/mayurchvhan/OLA-dashboard/blob/main/Screenshot%20dashboard.png).
